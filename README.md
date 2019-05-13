@@ -1,4 +1,4 @@
-# Nunjucks for Visual Studio Code
+# Nunjucks for Visual Studio Code (This version is modified for special purposes. Please use original)
 Nunjucks template syntax definition specifically for **Microsoft Visual Studio Code**.
 
 ```
